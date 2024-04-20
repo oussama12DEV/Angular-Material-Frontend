@@ -1,0 +1,29 @@
+
+.page-background {
+  background-image: url('https://foodiesconsulting.com/wp-content/uploads/differentes-formes-de-restauration-1200x780.jpg'); /* Chemin vers votre image de fond */
+  background-size: cover; /* Ajustement de la taille de l'image pour couvrir tout le contenu */
+  background-position: center; /* Positionnement de l'image au centre */
+  width: 100%; /* Assurez-vous que le conteneur occupe toute la largeur */
+  height: 100vh; /* Assurez-vous que le conteneur occupe toute la hauteur de la vue */
+
+
+}
+
+.content {
+  background-color: rgba(0, 0, 0, 0.2); /* Couleur foncée semi-transparente pour le fond */
+  color: #fff; /* Couleur de texte blanche */
+  padding: 20px; /* Espacement intérieur */
+  text-align: center; /* Centrer le texte */
+
+
+}
+
+.title {
+  font-size: 2.5em; /* Taille de police pour le titre */
+
+}
+
+.subtitle {
+  font-size: 1.5em; /* Taille de police pour le sous-titre */
+}
+
